@@ -1,4 +1,5 @@
-# v1.0
+# v.2
 
 Cambiar el titulo con # añadiendo +1.
 Anotar la versión anterior abajo.
+v.1
